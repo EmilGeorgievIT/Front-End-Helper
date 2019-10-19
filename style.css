@@ -1,0 +1,25 @@
+/*********************************
+    Accordion Jquery 
+*********************************/
+
+.accordion-jquery {
+    width: 300px;
+    margin: 12px auto;
+    font: 15px 'Trebuchet MS', sans-serif;
+}
+
+.accordion-jquery .s_toggle {
+    height: 25px;
+    background-color: #ccc;
+    cursor: pointer;
+    text-align: center;
+    padding: 2px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.accordion-jquery .nascosto {
+    display: none;
+    padding: 4px;
+}
